@@ -1,0 +1,8 @@
+-Localizar bien los datos. 
+
+
+-Mirar, entre otros, 3-Visualización, Matplotlib, 8-Annotations and ticks.ipynb
+
+-La mediana (median()) no es sensible a outlyers
+
+-puedo hacer.plot de diferentes factores en how to win, para descubrir algun factor que tenga más peso en las victorias. 
